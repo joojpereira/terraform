@@ -38,3 +38,6 @@ kubectl cluster-info
 ## Evidências
 Ver pasta `/prints` com capturas de tela do `kubectl get nodes -o wide`, `kubectl cluster-info`
 e da visualização do cluster no Lens.
+
+
+# teste social de conflito de brench
