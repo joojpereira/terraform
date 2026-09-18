@@ -42,4 +42,5 @@ e da visualização do cluster no Lens.
 
 # teste social de conflito de brench
 # testeetete
-# pra acabar com tudo 
+# pra acabar com
+# mundando o arquivo com a nova branch "nova"
